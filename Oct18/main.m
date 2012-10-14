@@ -13,6 +13,11 @@
 int main(int argc, char *argv[])
 {
     @autoreleasepool {
+        int i = 0;
+        i+= 10;
+        NSLog(@"The variable i is set to %d",i);
+        i+= 10;
+        NSLog(@"The variable i is set to %d",i);
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([Oct18AppDelegate class]));
     }
 }

@@ -20,11 +20,11 @@
 		BE69D4AC162B076900BF27A3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		BE69D4AE162B076900BF27A3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BE69D4B0162B076900BF27A3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		BE69D4B4162B076900BF27A3 /* Oct18-Info.plist */ = {isa = PBXFileReference; path = "Oct18-Info.plist"; sourceTree = "<group>"; };
+		BE69D4B4162B076900BF27A3 /* Oct18-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Oct18-Info.plist"; sourceTree = "<group>"; };
 		BE69D4B6162B076900BF27A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BE69D4B8162B076900BF27A3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BE69D4BA162B076900BF27A3 /* Oct18-Prefix.pch */ = {isa = PBXFileReference; path = "Oct18-Prefix.pch"; sourceTree = "<group>"; };
-		BE69D4BB162B076900BF27A3 /* Oct18AppDelegate.h */ = {isa = PBXFileReference; path = Oct18AppDelegate.h; sourceTree = "<group>"; };
+		BE69D4BA162B076900BF27A3 /* Oct18-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Oct18-Prefix.pch"; sourceTree = "<group>"; };
+		BE69D4BB162B076900BF27A3 /* Oct18AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Oct18AppDelegate.h; sourceTree = "<group>"; };
 		BE69D4BC162B076900BF27A3 /* Oct18AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Oct18AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
